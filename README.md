@@ -5,7 +5,7 @@
 <br>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maithezao&theme=rose"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithezao&theme=rose" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maithezao&theme=rose" />
 </div>
 
 <!-- Contact -->
